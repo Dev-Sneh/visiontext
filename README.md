@@ -26,7 +26,8 @@
 
 Here’s a glimpse of how VisionText looks:
 
-![VisionText UI](link-to-screenshot.png)
+![VisionText UI](https://github.com/user-attachments/assets/4b73cf76-46c3-4844-b085-eb2c3fa5f4a9)
+![VisionText (history)](https://github.com/user-attachments/assets/779ef190-728c-4bdc-b0df-7381b47d698a)
 
 ## ⚙️ Installation & Setup
 
