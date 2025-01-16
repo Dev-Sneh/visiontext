@@ -1,10 +1,11 @@
 # VisionText 🧠✨
 
-**VisionText** is an innovative web application designed to extract text from **images** and **PDF files** effortlessly. Whether you are dealing with scanned documents, images with text, or PDFs, **VisionText** makes text extraction easy, accurate, and efficient!
+**VisionText** is an innovative web application designed to extract text from **images** and **PDF files** effortlessly. Whether you are dealing with scanned documents, images with text, or PDFs, **VisionText** makes text extraction easy, accurate, and efficient! In addition, it analyzes the content to provide valuable insights such as keywords and content suggestions.
 
 ## 🚀 Features:
 - **Extract Text from Images**: Upload an image and extract readable text from it with high accuracy.
 - **Extract Text from PDF**: Upload PDF files and extract embedded text in seconds.
+- **Keyword Analysis**: After extracting the text, VisionText analyzes the content to identify the top keywords that matter most.
 - **Text Copy**: Easily copy the extracted text to your clipboard.
 - **Clear History**: Manage and clear your extraction history whenever you want.
 
@@ -12,12 +13,14 @@
 - **Fast & Accurate**: With advanced algorithms, VisionText offers quick and reliable text extraction.
 - **User-Friendly**: Simple and intuitive interface, perfect for both beginners and advanced users.
 - **Cross-Platform Support**: Works seamlessly on desktops, tablets, and mobile devices.
+- **Content Insights**: In addition to extracting text, VisionText provides valuable insights, such as keyword analysis, which helps in improving your content strategy.
 
 ## 💡 How it Works:
 1. **Upload Image or PDF**: Choose the file you want to extract text from.
 2. **Extract Text**: Let **VisionText** do the magic by processing your file.
-3. **Copy Text**: Copy the extracted text to use wherever you need.
-4. **Manage History**: Access and manage your extraction history with ease.
+3. **Keyword Analysis**: After text extraction, VisionText analyzes the content and displays important keywords.
+4. **Copy Text**: Copy the extracted text to use wherever you need.
+5. **Manage History**: Access and manage your extraction history with ease.
 
 ## 📸 Screenshots
 
@@ -34,7 +37,7 @@ Here’s a glimpse of how VisionText looks:
 ### Steps to Run Locally:
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Dev-Sneh/visiontext.git
 
 2. Install dependencies:
    cd visiontext
