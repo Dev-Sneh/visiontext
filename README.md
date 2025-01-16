@@ -22,6 +22,12 @@
 4. **Copy Text**: Copy the extracted text to use wherever you need.
 5. **Manage History**: Access and manage your extraction history with ease.
 
+## 🛠️ Technologies Used:
+- **Frontend**: React.js ⚛️, Tailwind CSS 🎨, HTML5 🖥️, JavaScript 💻
+- **Libraries**: PDF.js 📄, Tesseract.js 🤖
+- **Hosting**: Netlify 🌐
+- **Version Control**: GitHub 🐙
+
 ## 📸 Screenshots
 
 Here’s a glimpse of how VisionText looks:
